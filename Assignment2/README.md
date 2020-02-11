@@ -1,6 +1,6 @@
-##3D Object Detection and Instance Segmentation
+## 3D Object Detection and Instance Segmentation
 
-####part1:
+#### part1:
 
 **train mode**:
 
@@ -14,7 +14,7 @@ estimated depth map is in data/train/est_depth
 
 estimated depth map is in data/test/est_depth
 
-####part2:
+#### part2:
 
 **train mode**: 
 
@@ -28,7 +28,7 @@ estimated bounding box is in data/train/est_bbox
 
 estimated bounding box is in data/test/est_bbox
 
-####part3:
+#### part3:
 
 **train mode**: 
 
