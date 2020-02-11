@@ -1,6 +1,6 @@
-#Feature Points Detection and Correspondences 
+# Feature Points Detection and Correspondences 
 
-##Running command 
+## Running command 
 
 ```python Template_Code.py training```  to get training result 
 ```python Template_Code.py test ```  to get test result
